@@ -1,4 +1,4 @@
-<h1 align="center"> (Sage) Yang</h1>
+<h1 align="center"> Sage Yang</h1>
 
 <p align="center">
   <b>Data Science @ UBC</b> • <b>Former Corporate Banker</b> • <b>Risk, Analytics, Decision-Making</b>
