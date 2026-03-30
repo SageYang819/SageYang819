@@ -141,7 +141,7 @@ I am building projects and experience related to:
 ## Connect With Me
 
 - GitHub: [SageYang819](https://github.com/SageYang819)
-- LinkedIn: [Add your LinkedIn here](ADD_YOUR_LINKEDIN_HERE)
+- LinkedIn: [SageYang](www.linkedin.com/in/sageyang819)
 
 ---
 
