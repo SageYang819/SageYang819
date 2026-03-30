@@ -1,21 +1,12 @@
-<h1 align="center"> Sage Yang</h1>
+<h1 align="center">Sijie (Sage) Yang</h1>
 
 <p align="center">
   <b>Data Science @ UBC</b> • <b>Former Corporate Banker</b> • <b>Risk, Analytics, Decision-Making</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/SageYang819">
-    <img src="https://img.shields.io/badge/GitHub-SageYang819-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="ADD_YOUR_LINKEDIN_HERE">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Canada-FF0000?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Risk%20%7C%20Analytics%20%7C%20ML-2ea44f?style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=1200&color=38BDF8&center=true&vCenter=true&width=1000&lines=Master's+in+Data+Science+%40+UBC;Former+Corporate+Banker;Interested+in+Risk%2C+Analytics%2C+and+Decision-Making" alt="Typing SVG" />
 </p>
-
----
 
 ## About Me
 
