@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1200&color=38BDF8&center=true&vCenter=true&width=1000&lines=Master's+in+Data+Science+%40+UBC;Former+Corporate+Banker; alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1200&color=38BDF8&center=true&vCenter=true&width=1000&lines=Master's+in+Data+Science+%40+UBC;Former+Corporate+Banker;alt="Typing SVG" />
 </p>
 
 <p align="center">
