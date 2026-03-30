@@ -1,20 +1,19 @@
-你要的那种“更像别人主页”的完整高级版，我直接给你一份可复制的：
 
-<h1 align="center">Sijie (Sage) Yang</h1>
+<h1 align="center">Sage Yang</h1>
 
 <p align="center">
   <b>Data Science @ UBC</b> • <b>Former Corporate Banker</b> • <b>Risk, Analytics, Decision-Making</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1200&color=38BDF8&center=true&vCenter=true&width=1000&lines=Master's+in+Data+Science+%40+UBC;Former+Corporate+Banker;Interested+in+Risk%2C+Analytics%2C+and+Decision-Making" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1200&color=38BDF8&center=true&vCenter=true&width=1000&lines=Master's+in+Data+Science+%40+UBC;Former+Corporate+Banker; alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="在这里放你的LinkedIn链接">
+  <a href="www.linkedin.com/in/sageyang819">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:在这里放你的邮箱">
+  <a href="mailto:yangshiyajie@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
